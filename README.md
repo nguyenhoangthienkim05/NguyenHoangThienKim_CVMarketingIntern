@@ -155,7 +155,7 @@ nav{gap:1rem}.feat{grid-template-columns:1fr}
 </div>
 <div>
 <h2>Giới thiệu</h2>
-<p style="margin-top:0">Sinh viên năm cuối ngành Business Administration, có kinh nghiệm bán hàng online, tiếp cận khách hàng và nghiên cứu thị trường. Thành thạo MOS và Canva.</p>
+<p style="margin-top:0">Sinh viên năm cuối ngành Quản trị kinh doanh, có kinh nghiệm bán hàng online, tiếp cận khách hàng và nghiên cứu thị trường. Thành thạo MOS 2019 và Canva.</p>
 <ul class="skills"><li>Bán hàng online</li><li>Tiếp cận khách hàng</li><li>Nghiên cứu thị trường</li><li>MOS</li><li>Canva</li></ul>
 </div>
 </div></section>
